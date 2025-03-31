@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ben-rogerson/babel-plugin-twin#readme",
   "dependencies": {
-    "@babel/template": "^7.12.13"
+    "@babel/template": "^7.27.0"
   }
 }
